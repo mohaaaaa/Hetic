@@ -1,6 +1,3 @@
 # Hetic
-
-
-
-ceci est mon projet Git
+Ceci est mon projet Git.
 
